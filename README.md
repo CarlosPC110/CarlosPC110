@@ -13,8 +13,9 @@
   <img align="right" height="150" src="https://media1.tenor.com/m/nOBJ9S6bIFQAAAAd/kakashi-obito.gif"  />
 </div>
 
-###
+### 🧠 Tech Stack
 
+<p><strong>💻 Technologies I use for web development:</strong></p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
@@ -44,6 +45,8 @@
 </div>
 
 <br/>
+<br/>
+<p><strong>⚙️ Other technologies and tools I work with:</strong></p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
   <img width="12" />
@@ -79,7 +82,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/CarlosPC110/CarlosPC110/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosPC110/CarlosPC110/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlosPC110/CarlosPC110/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CarlosPC110/CarlosPC110/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
