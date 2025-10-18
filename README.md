@@ -1,20 +1,19 @@
 <h2 align="center">Hi 👋! I'm Carlos Peña</h2>
 
-###
+<p align="left">
+I’m passionate about transforming ideas into functional and well-structured applications. As a Junior Full Stack Web Developer and Computer Systems Engineering student, I enjoy building complete solutions using Python, JavaScript, and SQL, combining logic, design, and usability. Always learning, exploring new technologies, and striving to improve with every project.
+</p>
 
-<p align="left">I’m passionate about transforming ideas into functional and well-structured applications. As a Junior Full Stack Web Developer and Computer Systems Engineering student, I enjoy building complete solutions using Python, JavaScript, and SQL, combining logic, design, and usability. Always learning, exploring new technologies, and striving to improve with every project</p>
-
-###
-
-<br clear="both">
+---
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosPC110&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img align="right" height="150" src="https://media1.tenor.com/m/nOBJ9S6bIFQAAAAd/kakashi-obito.gif"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosPC110&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img align="right" height="150" src="https://media1.tenor.com/m/nOBJ9S6bIFQAAAAd/kakashi-obito.gif" alt="kakashi gif" />
 </div>
 
-### 🧠 Tech Stack
+<br clear="both"/>
 
+### 🧠 Tech Stack
 <p><strong>💻 Technologies I use for web development:</strong></p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
@@ -45,7 +44,7 @@
 </div>
 
 <br/>
-<br/>
+
 <p><strong>⚙️ Other technologies and tools I work with:</strong></p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
@@ -73,51 +72,38 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo" />
 </div>
 
+---
 
-###
-
-
-
-###
-
-<br clear="both">
-
+### 👾 CarlosPC110's Contribution Graph
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosPC110/CarlosPC110/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlosPC110/CarlosPC110/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CarlosPC110/CarlosPC110/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosPC110/CarlosPC110/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlosPC110/CarlosPC110/output/pacman-contribution-graph.svg" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CarlosPC110/CarlosPC110/output/pacman-contribution-graph.svg" />
 </picture>
 
-###
+---
 
-<br clear="both">
-
+### 🌍 Connect with me
 <div align="left">
   <a href="https://discord.com/users/carlospc12" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo" />
   </a>
   <img width="12" />
-  
   <a href="https://www.linkedin.com/in/carlos-pena-castillo16/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" />
   </a>
   <img width="12" />
-  
   <a href="https://www.instagram.com/carloscapc11/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo" />
   </a>
   <img width="12" />
-  
   <a href="mailto:carloscapc11@outlook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="47" height="35" alt="microsoft-outlook logo" />
   </a>
 </div>
 
-
-###
+<br/>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CarlosPC110.CarlosPC110&left_color=darkslateblue&right_color=rebeccapurple"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=CarlosPC110.CarlosPC110&left_color=darkslateblue&right_color=rebeccapurple" alt="visitors badge" />
 </div>
-
-###
